@@ -3,7 +3,7 @@ const Discord = require('discord.js')
 
 // Create an instance of Discord that we will use to control the bot
 var asimov = new Discord.Client();
-const token = 'NDQxOTkyODE2ODA2MTk5Mjk4.Dc4Vew.FT6EM_8YGrt3Psph3QSrjr__HBo'
+const token = 'TOKEN'
 
 // Discord bot initial message
 asimov.on('ready', () => {
